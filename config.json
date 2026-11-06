@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-python-functions",
+      "title": "Testing Python Functions with pytest",
+      "description": "Write and run pytest tests for Python functions, including typical and boundary cases.",
+      "path": "assignments/testing-python-functions",
+      "dueDate": "2026-11-13",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter_code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
